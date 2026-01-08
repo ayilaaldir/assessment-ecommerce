@@ -1,0 +1,11 @@
+category,last_month,forecast_month,last_orders,forecast_orders,orders_trend,orders_change_pct_3m,last_revenue,forecast_revenue,revenue_trend,revenue_change_pct_3m
+housewares,2018-08-01,2018-09-01,549,549,Increase,20.41,58763.36,58763.36,Increase,24.62
+health_beauty,2018-08-01,2018-09-01,765,765,Increase,19.07,119391.01,119391.01,Increase,22.06
+auto,2018-08-01,2018-09-01,345,345,Decrease/Flat,-0.32,45032.58,45032.58,Increase,0.41
+bed_bath_table,2018-08-01,2018-09-01,555,555,Decrease/Flat,-7.4,60891.09,60891.09,Decrease/Flat,-11.54
+watches_gifts,2018-08-01,2018-09-01,387,387,Decrease/Flat,-7.98,69767.06,69767.06,Decrease/Flat,-17.68
+toys,2018-08-01,2018-09-01,151,151,Decrease/Flat,-23.26,16923.75,16923.75,Decrease/Flat,-28.98
+sports_leisure,2018-08-01,2018-09-01,432,432,Decrease/Flat,-24.85,50860.18,50860.18,Decrease/Flat,-27.52
+computers_accessories,2018-08-01,2018-09-01,380,380,Decrease/Flat,-25.5,40052.64,40052.64,Decrease/Flat,-36.21
+furniture_decor,2018-08-01,2018-09-01,341,341,Decrease/Flat,-25.6,41168.55,41168.55,Decrease/Flat,-20.24
+cool_stuff,2018-08-01,2018-09-01,116,116,Decrease/Flat,-45.26,15794.89,15794.89,Decrease/Flat,-45.25
